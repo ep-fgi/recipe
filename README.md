@@ -8,3 +8,4 @@ Used in teaching Git.
 * FF edit 3
 
 * Master 1
+* Master 2
